@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"github.com/franela/goreq"
+	"github.com/goushuyun/log"
 	"github.com/parnurzeal/gorequest"
-	"github.com/wothing/log"
 )
 
 type NormalApi interface {

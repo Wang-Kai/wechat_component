@@ -5,7 +5,7 @@ package component
 import (
 	"fmt"
 
-	"github.com/wothing/log"
+	"github.com/goushuyun/log"
 
 	"github.com/franela/goreq"
 )

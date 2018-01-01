@@ -3,7 +3,7 @@ package lib
 import (
 	"testing"
 
-	"github.com/wothing/log"
+	"github.com/goushuyun/log"
 )
 
 const (

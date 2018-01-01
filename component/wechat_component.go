@@ -1,7 +1,7 @@
 package component
 
 import (
-	"wechat_component/lib"
+	"github.com/Wang-Kai/wechat_component/lib"
 
 	"fmt"
 )
